@@ -3,7 +3,7 @@
     "netlify-cli": "^12.0.6"
   },
     "scripts": {
-      "server": "json-server --watch db.json"
+      "server": "json-server --watch db.json -p 8002"
     }
   
 }
