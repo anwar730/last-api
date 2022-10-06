@@ -1,0 +1,99 @@
+{
+    "categories": [
+      {
+        "name": "Nonsensical"
+      },
+      {
+        "name": "Classic"
+      },
+      {
+        "name": "Dark"
+      },
+      {
+        "name": "Social Media"
+      }
+    ],
+    "popular": [
+      {
+        "id": 1,
+        "name": "Nateys roast #1",
+        "category": "Nonsensical",
+        "image_url": "https://i.imgflip.com/3xnj9h.jpg",
+        "is_fav": true
+      },
+      {
+        "id": 2,
+        "name": "Finding Neverland",
+        "category": "Nonsensical",
+        "image_url": "https://ik.imagekit.io/eke/memes/meme26_FI5vmMCNw1.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648420064032",
+        "is_fav": false
+      },
+      {
+        "is_fav": false,
+        "name": "JavaScript",
+        "category": "Nonsensical",
+        "image_url": "https://ik.imagekit.io/eke/memes/meme2_u09oZFzO2.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648419641901",
+        "id": 3
+      },
+      {
+        "id": 4,
+        "name": "Prepper and Tony",
+        "category": "Dark",
+        "image_url": "https://ik.imagekit.io/eke/memes/meme7_FqFTToryG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648419644568",
+        "is_fav": true
+      },
+      {
+        "id": 5,
+        "name": "Tim Cook and Apple",
+        "category": "Dark",
+        "image_url": "https://ik.imagekit.io/eke/memes/meme24_rt7_QrNgH.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648420063132",
+        "is_fav": false
+      }
+    ],
+    "funny": [
+      {
+        "id": 1,
+        "name": "Block man from passing",
+        "category": "Nonsensical",
+        "image_url": "https://ik.imagekit.io/eke/memes/meme8_sL4F1EpZk.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648419638255",
+        "is_fav": false
+      },
+      {
+        "id": 3,
+        "name": "Secret of Thor's hammer",
+        "category": "Nonsensical",
+        "image_url": "https://ik.imagekit.io/eke/memes/meme25_C3FChpA6V.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648420065865",
+        "is_fav": false
+      },
+      {
+        "id": 4,
+        "name": "Sober Theon Greyjoy",
+        "category": "Nonsensical",
+        "image_url": "https://ik.imagekit.io/eke/memes/meme22_LySRYDfRG.jpg?ik-sdk-version=javascript-1.4.3&updatedAt=1648420062665",
+        "is_fav": false
+      },
+      {
+        "id": 5,
+        "name": "Left Exit 12 Off Ramp",
+        "category": "Nonsensical",
+        "image_url": "https://ik.imagekit.io/eke/memes/meme5_cmnahYUOh.png?ik-sdk-version=javascript-1.4.3&updatedAt=1648419642130",
+        "is_fav": false
+      },
+      {
+        "id": 2,
+        "name": "Hide the Pain Harold",
+        "category": "Dark",
+        "image_url": "https://i.imgflip.com/gk5el.jpg",
+        "is_fav": false
+      }
+    ],
+    "memes": [
+      {
+        "id": 1,
+        "name": "Overly Attached Girlfriend",
+        "category": "Nonsensical",
+        "image_url": "https://i.imgflip.com/2o5hro.jpg",
+        "is_fav": false
+      }
+    ]
+  }
